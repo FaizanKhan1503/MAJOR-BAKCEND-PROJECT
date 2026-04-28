@@ -1,4 +1,3 @@
-# Major Backend Project With MERN
+#Clipo 
 
-
-This is a Backend Project The bakend we can say Like youtube.
+A video streaming Platform. 
